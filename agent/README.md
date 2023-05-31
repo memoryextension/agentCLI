@@ -1,11 +1,14 @@
-== build it
+# Agent
+it returns version of the CLI and the JSON API server
+
+## build it
 dotnet build
 
-== run it
+# run it
 dotnet run
 
-== Command Line options
---version
+# Command Line options
+-v/--version
    returns the version of the agent
 
 to use it
